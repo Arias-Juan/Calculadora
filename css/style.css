@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+.bordeInputRed{
+    border: 3px solid red;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.firma{
+    font-family: 'Indie Flower', cursive;
+    color: whitesmoke;
+}
